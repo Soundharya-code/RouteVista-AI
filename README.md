@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ROUTEVISTA AI
 **"Predict. Protect. Deliver."**
 
@@ -57,3 +58,7 @@ To enable real database features:
 - Integrate actual trained Scikit-Learn models for predictive risk.
 - Integrate Web Speech API for driver voice guidance.
 - Complete PWA setup for full offline capability in the Field Officer view.
+=======
+# RouteVista-AI
+AI-powered smart route planning and navigation system
+>>>>>>> ad5b496c07aa1d5eef60e876fa14e547eaf26883
